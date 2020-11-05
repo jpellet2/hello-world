@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+Hi there!
+
+my favorite pass time is playing guitar 
